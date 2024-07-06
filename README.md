@@ -36,7 +36,7 @@ Node version must be 16 or higher.
 To continue changing what you see in the demo
 
 ### npm
-```npm install```
+```npm install -f```
 
 or 
 
